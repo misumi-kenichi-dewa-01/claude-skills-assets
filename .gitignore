@@ -1,0 +1,5 @@
+dist/
+.npmrc
+*.log
+.env
+.DS_Store
